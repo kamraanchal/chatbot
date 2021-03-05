@@ -1,0 +1,1 @@
+s chatbot is a small application to show place temperature and countrz covid cases plus a link can be generated to find the tourist spot of that city. Everzthing else can be done with api (if given access :))
